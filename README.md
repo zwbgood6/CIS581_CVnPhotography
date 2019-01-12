@@ -2,9 +2,9 @@
 
 [Image Morphing](https://github.com/zwbgood6/ImageMorphing)
 
-[Canny Edge Detection](https://github.com/zwbgood6/CannyEdgeDetection)
-
 [Image Blending](https://github.com/zwbgood6/ImageBlending)
+
+[Canny Edge Detection](https://github.com/zwbgood6/CannyEdgeDetection)
 
 [Seam Carving](https://github.com/zwbgood6/SeamCarving)
 
